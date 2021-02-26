@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/redux-unsplash-live-search/static/css/main.b113a281.chunk.css",
-    "main.js": "/redux-unsplash-live-search/static/js/main.06cd9c82.chunk.js",
-    "main.js.map": "/redux-unsplash-live-search/static/js/main.06cd9c82.chunk.js.map",
+    "main.js": "/redux-unsplash-live-search/static/js/main.c9131754.chunk.js",
+    "main.js.map": "/redux-unsplash-live-search/static/js/main.c9131754.chunk.js.map",
     "runtime-main.js": "/redux-unsplash-live-search/static/js/runtime-main.dd895f88.js",
     "runtime-main.js.map": "/redux-unsplash-live-search/static/js/runtime-main.dd895f88.js.map",
     "static/js/2.8183ec4d.chunk.js": "/redux-unsplash-live-search/static/js/2.8183ec4d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dd895f88.js",
     "static/js/2.8183ec4d.chunk.js",
     "static/css/main.b113a281.chunk.css",
-    "static/js/main.06cd9c82.chunk.js"
+    "static/js/main.c9131754.chunk.js"
   ]
 }
