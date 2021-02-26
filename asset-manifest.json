@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/redux-unsplash-live-search/static/css/main.4752288a.chunk.css",
+    "main.js": "/redux-unsplash-live-search/static/js/main.a3d39487.chunk.js",
+    "main.js.map": "/redux-unsplash-live-search/static/js/main.a3d39487.chunk.js.map",
+    "runtime-main.js": "/redux-unsplash-live-search/static/js/runtime-main.dd895f88.js",
+    "runtime-main.js.map": "/redux-unsplash-live-search/static/js/runtime-main.dd895f88.js.map",
+    "static/js/2.dd517707.chunk.js": "/redux-unsplash-live-search/static/js/2.dd517707.chunk.js",
+    "static/js/2.dd517707.chunk.js.map": "/redux-unsplash-live-search/static/js/2.dd517707.chunk.js.map",
+    "index.html": "/redux-unsplash-live-search/index.html",
+    "static/css/main.4752288a.chunk.css.map": "/redux-unsplash-live-search/static/css/main.4752288a.chunk.css.map",
+    "static/js/2.dd517707.chunk.js.LICENSE.txt": "/redux-unsplash-live-search/static/js/2.dd517707.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd895f88.js",
+    "static/js/2.dd517707.chunk.js",
+    "static/css/main.4752288a.chunk.css",
+    "static/js/main.a3d39487.chunk.js"
+  ]
+}
