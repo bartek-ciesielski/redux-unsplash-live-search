@@ -15,7 +15,6 @@ input[type='text'] {
 }
 
 .autocomplete-items {
-  width: 600px;
   border: 1px solid #d4d4d4;
   border-bottom: none;
   border-top: none;
@@ -40,7 +39,6 @@ input[type='text'] {
 .autocomplete-active {
   background-color: rgb(112, 136, 171) !important;
   color: #ffffff;
-  width: 600px;
   padding: 10px;
 }
 
