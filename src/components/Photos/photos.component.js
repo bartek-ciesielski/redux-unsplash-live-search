@@ -50,16 +50,14 @@ function PhotoList({
 
   return (
     <ul className="photos-container">
-      {isError
-        ? status && (
-            <Modal closeModal={() => setStatus(false)}>
-              Something went wrong!!! Try again later
-            </Modal>
-          )
-        : null}
+      {isError ? (
+        <Modal closeModal={() => setStatus(false)}>
+          Something went wrong!!! Try again later
+        </Modal>
+      ) : null}
       {isLoading ? <Loader /> : null}
       {renderModalPhoto()}
-      {!photos.length && (
+      {!photos.length && !isError && (
         <div className="no-results">SORRY, NO RESULTS MATCHING QUERY</div>
       )}
       {

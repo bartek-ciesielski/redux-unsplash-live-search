@@ -1,10 +1,11 @@
 .home-form,
 .header-form {
   max-width: 80%;
-  margin: 30vh auto;
+  margin: 10vh auto;
   padding-top: 20px;
   position: relative;
   width: 600px;
+  text-align: left;
 }
 
 .header-form {
