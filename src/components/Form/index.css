@@ -1,0 +1,19 @@
+.home-form,
+.header-form {
+  max-width: 80%;
+  margin: 30vh auto;
+  padding-top: 20px;
+  position: relative;
+  width: 600px;
+}
+
+.header-form {
+  margin: 0 auto;
+}
+
+.hints-container {
+  position: absolute;
+  z-index: 99;
+  width: 600px;
+  opacity: 0.95;
+}
