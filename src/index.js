@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import { Provider } from 'react-redux';
 import configureStore from './store';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { Route, HashRouter } from 'react-router-dom';
 import Form from './components/Form/Form.component';
 import PhotoList from './components/Photos/photos.component';
 import Home from './components/Home/home.component';
@@ -14,7 +14,7 @@ const store = configureStore();
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <Router basename={process.env.PUBLIC_URL}>
+      <HashRouter>
         <Route exact path="/">
           <Home />
         </Route>
@@ -22,7 +22,7 @@ ReactDOM.render(
           <Form formClass={'header-form'} />
           <PhotoList />
         </Route>
-      </Router>
+      </HashRouter>
     </Provider>
   </React.StrictMode>,
   document.getElementById('root')
