@@ -57,7 +57,7 @@ function PhotoList({
       ) : null}
       {isLoading ? <Loader /> : null}
       {renderModalPhoto()}
-      {!photos.length && !isError && (
+      {!photos.length && !isError && !isLoading && (
         <div className="no-results">SORRY, NO RESULTS MATCHING QUERY</div>
       )}
       {
