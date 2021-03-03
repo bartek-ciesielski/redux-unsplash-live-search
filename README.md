@@ -6,7 +6,7 @@ It is recruitment task for frontend developer position build with React Redux.
 
 ## Features
 
-Application uses Usplach API to search photes with live hints. After sendig a query it returns matching photos wich can be expanded in modal.
+Application uses Usplach API to search photes with live hints. After sendig a query it returns matching photos which can be expanded in modal.
 
 ## Creator
 
