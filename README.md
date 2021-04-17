@@ -1,12 +1,10 @@
 # REDUX UNSPLASH SEARCH
 
-It is recruitment task for frontend developer position build with React Redux.
-
 [Live version](https://bartek-ciesielski.github.io/redux-unsplash-live-search/)
 
 ## Features
 
-Application uses Usplach API to search photes with live hints. After sendig a query it returns matching photos which can be expanded in modal.
+Application uses Unsplach API to search photes with live hints. After sendig a query it returns matching photos which can be expanded in modal.
 
 ## Creator
 
